@@ -1,0 +1,27 @@
+.mixerApp {
+	margin: 0 auto;
+	margin-top: 200px;
+	width: 500px;
+	height: 300px;
+	padding-top: 200px;
+	-webkit-transition: background-color 250ms linear;
+    -moz-transition: background-color 250ms linear;
+    -o-transition: background-color 250ms linear;
+    -ms-transition: background-color 250ms linear;
+    transition: background-color 250ms linear;
+}
+
+.controls {
+	width: 110px;
+	font-size: 16px;
+	margin: 0 auto;
+}
+
+.currentColour {
+	margin-top: 20px;
+	display: block;
+	width: 100px;
+	text-align: center;
+	color: #FFF;
+	font-size: 24px;
+}
